@@ -1,0 +1,8 @@
+scope: Membantu PPTPM mengelola unit melalui website
+milestone: 
+minggu 1: pembagian divisi & tugas
+minggu 2: persiapan wawancara unit
+minggu 3: wawancara unit persiapan ide
+minggu 4: penyelesaian prototype, presentasi ide ke bagian unit
+minggu 5: mulai desain, dan penyelesaian birokrasi
+minggu 6: mulai coding
