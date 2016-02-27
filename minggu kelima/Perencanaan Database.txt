@@ -1,16 +1,30 @@
 Database PPTPM
 =========================
 Tabel (-daftar_barang)
-kode_barang
-nama_barang
-stok
+kode_barang		Char(4)			PRIMARY_KEY
+nama_barang		Varchar2(100)
+stok			Int
 
 Tabel (-log_peminjaman)
-kode_peminjaman
-kode_barang
-tanggal_peminjaman
-tanggal_kembali
-status
+kode_peminjaman		Char(8)			PRIMARY_KEY
+kode_barang		Char(4)			FOREIGN_KEY((-daftar_barang).kode_barang)
+tgl_peminjaman		Date
+tgl_kembali		Date
+status			Enum(PINJAM, KEMBALI)
+
+=========================
+
+Format kode_barang pada Tabel (-daftar_barang)
+Baaa
+aaa:	nomor urut barang (3 digit. Misal: 001, 014, 230)
+Sebagai contoh: B001, B014, B230
+
+Format kode_peminjaman pada Tabel (-log_peminjaman)
+Laabbccc
+aa:	tahun (2 digit terakhir. Misal: 16)
+bb:	bulan (2 digit. Misal: Maret=03, November=11)
+ccc:	nomor peminjaman (3 digit. Misal: 001, 014, 230. Di reset setiap bulan. Start=001)
+Sebagai contoh: L1603001, L1603014, L1611230
 
 =========================
 
