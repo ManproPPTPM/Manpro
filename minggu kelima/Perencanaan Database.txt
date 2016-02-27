@@ -1,3 +1,5 @@
+Database PPTPM
+=========================
 Tabel (-daftar_barang)
 kode_barang
 nama_barang
@@ -10,6 +12,7 @@ tanggal_peminjaman
 tanggal_kembali
 status
 
+=========================
 
 Penjelasan:
 //Kasus 1 - Peminjaman masih ada sisa stok
@@ -18,3 +21,12 @@ dipinjam di Tabel (-log_peminjaman) pada kode_peminjaman A1 dan A3
 menampilkan sisanya: ambil stok kode_barang M1, kurangi jumlah barang yang dipinjam di Tabel (-log_peminjaman) kode_barang M1 dengan status PINJAM (pada kasus ini akan mengembalikan Tersedia: 1)
 peminjaman di A1 sudah dikembalikan lalu diupdate statusnya menjadi KEMBALI
 dengan ini setelah di update akan mengembalikan Tersedia: 2 (Select stok kode_barang M1 lalu dikurangi jumlah barang M1 pada Tabel (-log_peminjaman) berstatus PINJAM)
+
+//Kasus 2 - Peminjaman dengan barang tersedia habis
+misal di Tabel (-daftar_barang) stok kode_barang M1 ada 3
+dipinjam di Tabel (-log_peminjaman) pada kode_peminjaman A1, A3, dan A7
+menampilkan sisanya: ambil stok kode_barang M1, kurangi jumlah barang yang dipinjam di Tabel (-log_peminjaman) kode_barang M1 dengan status PINJAM (pada kasus ini akan mengembalikan Tersedia: 0)
+sistem menampilkan pesan Estimasi tersedia lagi pada: (tanggal)
+(tanggal) diambil dari hasil Select tanggal_kembali dengan kode_barang M1 yang berstatus PINJAM dengan tanggal_kembali paling kecil
+peminjaman di A1 sudah dikembalikan lalu diupdate statusnya menjadi KEMBALI
+dengan ini setelah di update akan mengembalikan Tersedia: 1 (Select stok kode_barang M1 lalu dikurangi jumlah barang M1 pada Tabel (-log_peminjaman) berstatus PINJAM)
