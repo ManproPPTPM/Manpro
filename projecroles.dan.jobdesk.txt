@@ -1,0 +1,133 @@
+Project Roles, Job Description and Responsibilities
+
+UNIT PPTPM
+
+
+Jabatan dan Roles
+
+Project Manager	Orang yang bertanggung jawab untuk mengembangkan, dalam hubungannya
+dengan Sponsor Proyek.
+Project Manager kemudian memastikan bahwa proyek ini disampaikan
+tepat waktu, anggaran dan standar kualitas yang dibutuhkan
+(Dalam spesifikasi yang disepakati). Dia memastikan proyek adalah sumber daya yang efektif dan mengelola hubungan dengan berbagai kelompok (termasuk semua kontributor proyek).
+Project Manager juga bertanggung jawab untuk mengelola pekerjaan konsultan, mengalokasikan dan memanfaatkan sumber daya  dengan cara yang efisien dan co-operative termotivasi dan sukses tim.
+Job Desc dan Tanggung Jawab
+
+• Mengelola dan memimpin tim proyek.
+• staf proyek Merekrut dan konsultan.
+• Mengelola koordinasi dari mitra dan kelompok kerja yang terlibat dalam pekerjaan proyek.
+• Rinci perencanaan proyek dan kontrol termasuk:
+• Mengembangkan dan memelihara rencana proyek rinci.
+• deliverables Mengelola proyek sejalan dengan rencana proyek.
+• Perekaman dan mengelola isu-isu proyek dan meningkat di mana diperlukan.
+• Menyelesaikan masalah lintas fungsional di tingkat proyek.
+• lingkup Mengelola proyek dan pengendalian perubahan dan meningkatnya masalah di mana diperlukan.
+• kemajuan proyek Pemantauan dan kinerja.
+• Memberikan laporan status untuk sponsor proyek.
+• Pelatihan Mengelola proyek dalam anggaran yang ditetapkan.
+• evaluasi Mengelola proyek dan kegiatan sosialisasi.
+• Managing konsultasi masukan dalam anggaran yang ditetapkan.
+• Persetujuan akhir dari spesifikasi desain.
+• Bekerja sama dengan pengguna untuk memastikan proyek memenuhi kebutuhan bisnis.
+• Definisi dan pengelolaan Pengguna Program Pengujian Penerimaan.
+• Mengidentifikasi kebutuhan pelatihan pengguna dan merancang dan mengelola program pelatihan pengguna.
+
+
+
+
+
+
+
+Jabatan	dan Roles
+
+
+Secretary/ Asistant PM	Orang yang bertanggung jawab untuk mengelola jadwal pertemuan tim proyek dan menerima semua data-data dari divisi didalam tim proyek
+
+Job Desc dan Tanggung Jawab
+
+• Mengelola dan membuat jadwal pertemuan 
+• Kordinasi ke semua divisi tim proyek
+•Merencanakan dan mengontrol kemajuan proyek
+• Mengawasi pekerjaan dan perilaku proyek fit-out laporan kemajuan memastikan bahwa pelaksanaan proyek dalam bingkai dan kualitas standar waktu anggaran
+
+
+
+
+
+
+
+
+Jabatan dan Roles
+
+
+
+Web Designer Orang yang memiliki mata untuk desain bersih dan berseni, memiliki keterampilan desain antarmuka pengguna yang unggul dan mampu menerjemahkan persyaratan tingkat tinggi ke arus interaksi dan artefak, dan mengubah mereka menjadi desain yang indah, intuitif, dan fungsional
+Job Desc dan Tanggung Jawab
+
+• Melaksanakan semua tahap desain visual dari konsep hands-off untuk bagian teknis
+• Konsep ide original yang sederhana/simple dan keramahan pengguna untuk jalan desain yang kompleks
+• Buat wireframes, storyboard, arus pengguna, arus proses dan peta situs untuk berkomunikasi secara efektif interaksi dan ide-ide desain
+• Hadir dan membela desain dan key milestone Penyerahan kepada rekan-rekan dan para pemangku kepentingan tingkat eksekutif
+• Membangun dan mempromosikan pedoman desain, praktik terbaik dan standar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jabatan	dan Roles
+
+
+
+Web Developer Orang yang bertanggung jawab untuk merancang, coding dan memodifikasi website, dari tata letak berfungsi dan sesuai dengan spesifikasi klien. Berusaha untuk menciptakan situs visual menarik yang menampilkan desain user-friendly dan navigasi yang jelas.
+Job Desc dan Tanggung Jawab
+
+• paparan teratur untuk pemangku kepentingan bisnis dan manajemen eksekutif, serta kewenangan dan ruang lingkup untuk menerapkan keahlian Anda untuk banyak masalah teknis yang menarik.
+• harus memiliki pemahaman yang kuat dari UI, kompatibilitas cross-browser, fungsi web umum dan standar
+•  Posisi ini memerlukan komunikasi yang konstan dengan rekan-rekan.
+• Pengalaman dalam perencanaan dan memberikan platform perangkat lunak yang akan digunakan unit PPTPM.
+•  keahlian yang mendalam dan pengalaman tangan dengan Aplikasi Web dan bahasa pemrograman seperti HTML, CSS, JavaScript, JQuery dan API’s.
+•  pengetahuan fungsional dalam atau tangan pada pengalaman desain dengan Web Services (REST, SOAP, dll ..) yang dibutuhkan untuk berhasil dalam posisi ini.
+•  pemahaman yang kuat tentang prinsip-prinsip keamanan dan bagaimana mereka berlaku untuk aplikasi E-Commerce.
+
+Web Developer Skills and Qualifications:
+JavaScript, JQuery, HTML, HTML5, CSS, CSS3, Web Programming Skills, E-Commerce, Teamwork, Verbal Communication, cross-browser compatibility, Web User Interface Design (UI), Security Principles, Object-Oriented Design, Web Services (REST/SOAP), Multimedia Content Development, API's
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jabatan	dan Roles
+
+Documentation Orang yang bertanggung jawab untuk laporan semua proyek manajemen dan mengetahui dengan rinci segala kebutuhan setiap divis tim proyek
+Job Desc dan Tanggung Jawab
+
+• memberikan informasi kepada tim tentang hasil wawancara dengan klien
+• mengetahui apa saja yang dibutuhkan oleh klien
+• kordinasi dengan sekretaris untuk menentukan jadwal pertemuan dengan klien
+• membuat laporan tentang semua hasil dari setiap divisi tim proyek
+
